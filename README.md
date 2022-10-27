@@ -1,3 +1,4 @@
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQFv37DmvFEgJQ/profile-displayphoto-shrink_800_800/0/1517541086604?e=2147483647&v=beta&t=54foDLt-KVXy5TfkXPPb76Aw0JdCn7Gbquxlran_Ndk" alt="amene terh" style="width:50px, height:50px, border-radius:50%"/>
 
 # Hi, I am AMENE Terh! 👋
 
