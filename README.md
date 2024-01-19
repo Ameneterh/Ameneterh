@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on improving myself
 - 🌱 I’m currently learning to become better at frontend development
 - 👯 I’m looking to collaborate on frontend projects
-- 📫 How to reach me: <a href="https://www.twitter.com/ameneterh">ameneterh</a>, <a href="tel:2348154230654">Call or Text</a>, <a href="https://wa.me/+2348154230654">WhatsApp</a>
+- 📫 How to reach me: <a href="https://www.twitter.com/ameneterh">ameneterh</a>, <a href="https://wa.me/+2348154230654">WhatsApp</a>, <a href="tel:2348154230654">Call or Text</a>
 - 😄 Pronouns: Gifted One
 - ⚡ Fun fact: Loves God, Family Man, Writing Enthusiast, etc etc.
 - A 2022 Zuri Training Alumnus
